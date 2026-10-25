@@ -1,0 +1,14 @@
+/build/
+/ezBasic.nro
+/ezBasic.nacp
+/ezBasic.elf
+/ezBasic.nsp
+/Plutonium/Plutonium/build/
+/Plutonium/Plutonium/lib/
+*.o
+*.d
+*.map
+*.exe
+.DS_Store
+Thumbs.db
+.hermes-tmp.*
